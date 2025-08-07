@@ -57,20 +57,13 @@ Use Postman or any HTTP client to test the endpoints.
 
 ## Preview
 
-**GET /books (All Books)**
-![GET All Books](./ss/ss1.png)
+_![Website Preview](./ss/ss1.png)
+_![Website Preview](./ss/ss2.png)
+_![Website Preview](./ss/ss3.png)
+_![Website Preview](./ss/ss4.png)
+_![Website Preview](./ss/ss5.png)
 
-**GET /books/:id (Single Book)**
-![GET Single Book](./ss/ss2.png)
 
-**POST /books (Add Book)**
-![POST Add Book](./ss/ss3.png)
-
-**PUT /books/:id (Update Book)**
-![PUT Update Book](./ss/ss4.png)
-
-**DELETE /books/:id (Delete Book)**
-![DELETE Book](./ss/ss5.png)
 
 ## Author 
  - Aditi Bhatt - Frontend Developer
