@@ -57,11 +57,16 @@ Use Postman or any HTTP client to test the endpoints.
 
 ##  Preview
 
-_ GET![Website Preview](./ss1.png)
-_ GET![Website Preview](./ss2.png)
-_ POST![Website Preview](./ss3.png)
-_ PUT![Website Preview](./ss4.png)
-_ DELETE![Website Preview](./ss5.png)
+_ GET-
+   _![Website Preview](./ss1.png)
+_ GET-
+ _![Website Preview](./ss2.png)
+_ POST-
+_![Website Preview](./ss3.png)
+_ PUT-
+_![Website Preview](./ss4.png)
+_ DELETE-
+_![Website Preview](./ss5.png)
 
 ## Author 
  - Aditi Bhatt - Frontend Developer
