@@ -55,16 +55,6 @@ Use Postman or any HTTP client to test the endpoints.
 - Data is stored in-memory and will reset when the server restarts.
 - `node_modules` is ignored by git via `.gitignore`.
 
-## Preview
-
-_![Website Preview](./ss/ss1.png)
-_![Website Preview](./ss/ss2.png)
-_![Website Preview](./ss/ss3.png)
-_![Website Preview](./ss/ss4.png)
-_![Website Preview](./ss/ss5.png)
-
-
-
 ## Author 
  - Aditi Bhatt - Frontend Developer
 
