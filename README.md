@@ -7,6 +7,7 @@ A simple RESTful API for managing books using Node.js and Express.
 - Add a new book
 - Update a book by ID
 - Delete a book by ID
+- **NEW**: Fetch README content from GitHub repositories
 
 ## Endpoints
 
@@ -35,6 +36,29 @@ Update a book by its ID.
 
 ### DELETE /books/:id
 Delete a book by its ID.
+
+### POST /github/readme
+**NEW**: Fetch README content from a GitHub repository.
+- Request body (JSON):
+  ```json
+  {
+    "url": "https://github.com/owner/repository"
+  }
+  ```
+- Supported URL formats:
+  - `https://github.com/owner/repo`
+  - `github.com/owner/repo`
+  - `owner/repo`
+- Returns:
+  ```json
+  {
+    "repository": "owner/repo",
+    "url": "https://github.com/owner/repo",
+    "readme": "README content...",
+    "filename": "README.md",
+    "size": 1234
+  }
+  ```
 
 ## Getting Started
 
